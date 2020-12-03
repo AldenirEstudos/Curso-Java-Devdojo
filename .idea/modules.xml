@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BreackContinue/BreackContinue.iml" filepath="$PROJECT_DIR$/BreackContinue/BreackContinue.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Curso-Java-Devdojo.iml" filepath="$PROJECT_DIR$/.idea/Curso-Java-Devdojo.iml" />
     </modules>
   </component>
