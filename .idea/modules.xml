@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bloco-De-Inicializacao/Bloco-De-Inicializacao.iml" filepath="$PROJECT_DIR$/Bloco-De-Inicializacao/Bloco-De-Inicializacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Curso-Java-Devdojo.iml" filepath="$PROJECT_DIR$/.idea/Curso-Java-Devdojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Varargs/Varargs.iml" filepath="$PROJECT_DIR$/Varargs/Varargs.iml" />
     </modules>
   </component>
 </project>
